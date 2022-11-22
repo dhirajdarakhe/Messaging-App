@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149319730128",
+    "project_id": "talkapp-b0580",
+    "storage_bucket": "talkapp-b0580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149319730128:android:817669deb970599fa92fd5",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149319730128-e7qjeu44d0b6kpag53m3i2f1dq6c0htp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxHiOkBl05CU1zZWkGIqgUVWQTjzbQ44A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149319730128-e7qjeu44d0b6kpag53m3i2f1dq6c0htp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
